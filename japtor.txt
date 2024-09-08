@@ -1,1 +1,4 @@
 Japtor Goraria el Destinia Ichibulup de Gortheia
+Install {
+    npm i
+}
