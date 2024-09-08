@@ -13,7 +13,7 @@ function FormComponent() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(formData); // In production, send this to your backend
+    console.log(formData);
   };
 
   return (
